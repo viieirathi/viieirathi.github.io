@@ -1,5 +1,25 @@
 		<style>
-		h1 {
-			font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-		}
+		h1,h2{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+       
+    body{
+      background-color: #DBEBC0;
+      }
+      .picture {
+        border-radius: 10px;
+        ;
+      }  
+      .family{
+        font-family: fantasy;
+        font-size: 30px;
+        text-align: center;
+      }
+      .list{
+        font-size: 18px;
+      }  
+      .list-u{
+        font-style: italic;
+      }
 		</style>
